@@ -1,0 +1,34 @@
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('perro','Chispa',2,'Poodle','Ideal para tus pequeñines','1_Chispa.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('otro','Donald',2,'Pato Pekin Americano','Necesitaras una piscina','2_Donald.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('perro','Dunkan',2,'Doberman','Es muy activo, nunca se cansa','3_Dunkan.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('conejo','Peluchin',1,'Mini Lop','Es bastante jugueton','4_Peluchin.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('gato','Negro',1,'Bombay','Se la pasa durmiendo','5_Negro.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('perro','Canon',3,'Pastor Aleman','Cuidara de ti y tu hogar','6_Canon.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('conejo','Bombo',2,'Fauve de Bourgogne','Pesa mas que un bebe','7_Bombo.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('gato','Lizo',2,'Esfinge','Se va por las mañanas y solo llega a dormir','8_Lizo.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('otro','Green',3,'Loro Cariamarillo','Sabe contar chistes','9_Green.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('gato','Garfield',2,'Persa','Come bastante','10_Garfield.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('conejo','Bugs',1,'Blanc de Termonde','Como muchas zanahorias','11_Bugs.jpg');
+insert into mascotas (tipo, nombre, edad, raza, descripcion, imagen)
+values('otro','Raphaelo',4,'Tortuga de Cumberland','Come lo que sea','12_Raphaelo.jpg');
+
+
+insert into usuarios (nombre, telefono, ciudad, email, edad, genero)
+values('Genaro Osorio','2221764476','puebla','oraney_2512@hotmail.com',24,'masculino');
+insert into usuarios (nombre, telefono, ciudad, email, edad, genero)
+values('Viviana Cervantes','5544332211','SMT','micorreo@correo.com',23,'femenino');
+insert into usuarios (nombre, telefono, ciudad, email, edad, genero)
+values('Rafael Huerta','1234567890','tlatlauquitepec','elquesea@gmail.com',21,'masculino');
+insert into usuarios (nombre, telefono, ciudad, email, edad, genero)
+values('Floria Nohemi','1122334455','zacatlan','desconocido@dom.com',25,'femenino');
